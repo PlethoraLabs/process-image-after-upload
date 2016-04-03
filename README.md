@@ -1,9 +1,9 @@
 # process-image-after-upload
 Wordpress plugin for post-upload image processing 
 
-## Currently supports `Auto-levels` and `sharpen` filters.
+Currently supports `Auto-levels` and `sharpen` filters.
 
-## Attributions
+### Attributions
 
 This plugin was based on the [Resize Image After Upload](https://wordpress.org/plugins/resize-image-after-upload/) wordpress plugin.
 
