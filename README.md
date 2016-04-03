@@ -3,6 +3,12 @@ Wordpress plugin for post-upload image processing
 
 Currently supports `Auto-levels` and `sharpen` filters.
 
+**Before Upload**
+![Alt text](/img/before.jpg)
+
+**After Upload (with Auto-Levels and Sharpen filters applied)**
+![Alt text](/img/after.jpg)
+
 ### Attributions
 
 This plugin was based on the [Resize Image After Upload](https://wordpress.org/plugins/resize-image-after-upload/) wordpress plugin.
