@@ -4,9 +4,11 @@ Wordpress plugin for post-upload image processing
 Currently supports `Auto-levels` and `sharpen` filters.
 
 **Before Upload**
+
 ![Alt text](/img/before.jpg)
 
 **After Upload (with Auto-Levels and Sharpen filters applied)**
+
 ![Alt text](/img/after.jpg)
 
 ### Attributions
